@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Ali Boghdady</h1>
 <h3 align="center">A passionate Backend developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h2NWR3bjA2eDkwOWd2eHU0ejhjcWJsM2xteXlzeDk1NW81dGZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="b08dady" /> </p>
 
 - 🔭 I’m currently working on [(GP) AR Indoor Navigation and Inquiry Answering](https://github.com/B08DADY/ChatBoot_WebAPI)
